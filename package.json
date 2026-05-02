@@ -1,5 +1,5 @@
 {
-  "name": "fik-uploader",
+  "name": "wilz-uploader",
   "version": "1.0.0",
   "description": "file uploader compatible with Vercel, VPS, and others",
   "main": "server.js",
